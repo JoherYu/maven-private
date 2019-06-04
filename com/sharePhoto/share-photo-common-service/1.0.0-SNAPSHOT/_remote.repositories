@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 04 15:07:08 CST 2019
+share-photo-common-service-1.0.0-SNAPSHOT.pom>=
+share-photo-common-service-1.0.0-SNAPSHOT-sources.jar>=
+share-photo-common-service-1.0.0-SNAPSHOT.jar>=

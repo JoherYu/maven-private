@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 04 15:13:10 CST 2019
+fastdfs-client-java-1.27-SNAPSHOT-sources.jar>=
+fastdfs-client-java-1.27-SNAPSHOT.jar>=
+fastdfs-client-java-1.27-SNAPSHOT.pom>=
